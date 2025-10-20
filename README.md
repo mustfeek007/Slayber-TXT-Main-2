@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ SLAYBER DRM BOT ✨
 </h1>
 
 <p align="center">
